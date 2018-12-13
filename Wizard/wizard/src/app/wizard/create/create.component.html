@@ -1,0 +1,18 @@
+<div class="form-container">
+ 
+  <form [formGroup]="eventMessageForm" (ngSubmit)="onSubmit()" novalidate>
+    <div>
+      <mat-form-field>
+        <input matInput placeholder="event name" formControlName="eventName">
+      </mat-form-field>
+      <mat-form-field>
+        <input matInput placeholder="event description" formControlName="eventDescription">
+      </mat-form-field>
+    </div>
+    <button mat-raised-button primary type="submit" color="primary" [disabled]="eventMessageForm.pristine">Save</button>
+    <button mat-raised-button primary type="reset" color="primary" (click)="revert()" [disabled]="eventMessageForm.pristine">Revert</button>
+    <mat-error *ngIf="errorMessage">{{ errorMessage }}</mat-error>
+  </form>
+  
+  <app-messages></app-messages>
+</div>

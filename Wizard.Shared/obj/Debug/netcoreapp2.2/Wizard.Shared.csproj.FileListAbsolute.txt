@@ -1,0 +1,9 @@
+C:\dev\WizardQueue\Wizard.Shared\bin\Debug\netcoreapp2.2\Wizard.Shared.deps.json
+C:\dev\WizardQueue\Wizard.Shared\bin\Debug\netcoreapp2.2\Wizard.Shared.dll
+C:\dev\WizardQueue\Wizard.Shared\obj\Debug\netcoreapp2.2\Wizard.Shared.csproj.CoreCompileInputs.cache
+C:\dev\WizardQueue\Wizard.Shared\obj\Debug\netcoreapp2.2\Wizard.Shared.AssemblyInfoInputs.cache
+C:\dev\WizardQueue\Wizard.Shared\obj\Debug\netcoreapp2.2\Wizard.Shared.AssemblyInfo.cs
+C:\dev\WizardQueue\Wizard.Shared\bin\Debug\netcoreapp2.2\Wizard.Shared.pdb
+C:\dev\WizardQueue\Wizard.Shared\obj\Debug\netcoreapp2.2\Wizard.Shared.dll
+C:\dev\WizardQueue\Wizard.Shared\obj\Debug\netcoreapp2.2\Wizard.Shared.pdb
+C:\dev\WizardQueue\Wizard.Shared\obj\Debug\netcoreapp2.2\Wizard.Shared.csprojAssemblyReference.cache

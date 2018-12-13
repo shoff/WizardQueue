@@ -1,0 +1,15 @@
+<div *ngIf="messages.length > 0">
+    <mat-error *ngIf="errorMessage">{{ errorMessage }}</mat-error>
+    <mat-table [dataSource]="dataSource" class="mat-elevation-z1">
+      <ng-container matColumnDef="name">
+        <mat-header-cell *matHeaderCellDef class="solera-header">Name</mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.eventName}} </mat-cell>
+      </ng-container>
+      <ng-container matColumnDef="description">
+          <mat-header-cell *matHeaderCellDef class="solera-header"> Description </mat-header-cell>
+          <mat-cell *matCellDef="let element"> {{element.eventDescription}} </mat-cell>
+        </ng-container>
+        <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+        <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+    </mat-table> 
+</div>

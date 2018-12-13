@@ -1,0 +1,114 @@
+@import '~@angular/material/theming';
+@include mat-core();
+
+$mat-solera: (
+    50 : #fdf0e4,
+    100 : #fbd8bc,
+    200 : #f9bf90,
+    300 : #f6a563,
+    400 : #f49141,
+    500 : #f27e20,
+    600 : #f0761c,
+    700 : #ee6b18,
+    800 : #ec6113,
+    900 : #e84e0b,
+    A100 : #ffffff,
+    A200 : #ffe8e0,
+    A400 : #ffc2ad,
+    A700 : #ffaf93,
+    contrast: (
+        50 : #000000,
+        100 : #000000,
+        200 : #000000,
+        300 : #000000,
+        400 : #000000,
+        500 : #000000,
+        600 : #000000,
+        700 : #000000,
+        800 : #000000,
+        900 : #ffffff,
+        A100 : #000000,
+        A200 : #000000,
+        A400 : #000000,
+        A700 : #000000,
+    )
+);
+
+$mat-solera-blue: (
+    50 : #e4e7ec,
+    100 : #bcc2d1,
+    200 : #8f99b2,
+    300 : #627093,
+    400 : #41527b,
+    500 : #1f3364,
+    600 : #1b2e5c,
+    700 : #172752,
+    800 : #122048,
+    900 : #0a1436,
+    A100 : #708cff,
+    A200 : #3d63ff,
+    A400 : #0a3aff,
+    A700 : #002ff0,
+    contrast: (
+        50 : #000000,
+        100 : #000000,
+        200 : #000000,
+        300 : #ffffff,
+        400 : #ffffff,
+        500 : #ffffff,
+        600 : #ffffff,
+        700 : #ffffff,
+        800 : #ffffff,
+        900 : #ffffff,
+        A100 : #000000,
+        A200 : #ffffff,
+        A400 : #ffffff,
+        A700 : #ffffff,
+    )
+);
+
+$mat-solera-red: (
+    50 : #feeceb,
+    100 : #fcd0cd,
+    200 : #fab1ac,
+    300 : #f8918a,
+    400 : #f77a71,
+    500 : #f56258,
+    600 : #f45a50,
+    700 : #f25047,
+    800 : #f0463d,
+    900 : #ee342d,
+    A100 : #ffffff,
+    A200 : #fffbfb,
+    A400 : #ffcac8,
+    A700 : #ffb1ae,
+    contrast: (
+        50 : #000000,
+        100 : #000000,
+        200 : #000000,
+        300 : #000000,
+        400 : #000000,
+        500 : #000000,
+        600 : #000000,
+        700 : #ffffff,
+        800 : #ffffff,
+        900 : #ffffff,
+        A100 : #000000,
+        A200 : #000000,
+        A400 : #000000,
+        A700 : #000000,
+    )
+);
+
+$custom-theme-primary: mat-palette($mat-solera, 900, 600, 900);
+$custom-theme-accent: mat-palette($mat-solera-blue);
+$custom-theme-warn: mat-palette($mat-solera-red, 700);
+
+// create theme (use mat-dark-theme for themes with dark backgrounds)
+$custom-theme: mat-light-theme(
+    $custom-theme-primary,
+    $custom-theme-accent,
+    $custom-theme-warn
+);
+
+@include angular-material-theme($custom-theme);

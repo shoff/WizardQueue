@@ -1,0 +1,15 @@
+C:\dev\WizardQueue\Wizard.Subscriber\bin\Debug\netcoreapp2.2\Wizard.Subscriber.deps.json
+C:\dev\WizardQueue\Wizard.Subscriber\bin\Debug\netcoreapp2.2\Wizard.Subscriber.runtimeconfig.json
+C:\dev\WizardQueue\Wizard.Subscriber\bin\Debug\netcoreapp2.2\Wizard.Subscriber.runtimeconfig.dev.json
+C:\dev\WizardQueue\Wizard.Subscriber\bin\Debug\netcoreapp2.2\Wizard.Subscriber.dll
+C:\dev\WizardQueue\Wizard.Subscriber\obj\Debug\netcoreapp2.2\Wizard.Subscriber.csprojAssemblyReference.cache
+C:\dev\WizardQueue\Wizard.Subscriber\obj\Debug\netcoreapp2.2\Wizard.Subscriber.csproj.CoreCompileInputs.cache
+C:\dev\WizardQueue\Wizard.Subscriber\obj\Debug\netcoreapp2.2\Wizard.Subscriber.AssemblyInfoInputs.cache
+C:\dev\WizardQueue\Wizard.Subscriber\obj\Debug\netcoreapp2.2\Wizard.Subscriber.AssemblyInfo.cs
+C:\dev\WizardQueue\Wizard.Subscriber\obj\Debug\netcoreapp2.2\Wizard.Subscriber.csproj.CopyComplete
+C:\dev\WizardQueue\Wizard.Subscriber\bin\Debug\netcoreapp2.2\Wizard.Subscriber.pdb
+C:\dev\WizardQueue\Wizard.Subscriber\bin\Debug\netcoreapp2.2\Wizard.Shared.dll
+C:\dev\WizardQueue\Wizard.Subscriber\bin\Debug\netcoreapp2.2\Wizard.Shared.pdb
+C:\dev\WizardQueue\Wizard.Subscriber\obj\Debug\netcoreapp2.2\Wizard.Subscriber.dll
+C:\dev\WizardQueue\Wizard.Subscriber\obj\Debug\netcoreapp2.2\Wizard.Subscriber.pdb
+C:\dev\WizardQueue\Wizard.Subscriber\bin\Debug\netcoreapp2.2\NLog.config

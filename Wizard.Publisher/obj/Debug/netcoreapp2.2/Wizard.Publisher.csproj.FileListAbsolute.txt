@@ -1,0 +1,13 @@
+C:\dev\WizardQueue\Wizard.Publisher\bin\Debug\netcoreapp2.2\Wizard.Publisher.deps.json
+C:\dev\WizardQueue\Wizard.Publisher\bin\Debug\netcoreapp2.2\Wizard.Publisher.dll
+C:\dev\WizardQueue\Wizard.Publisher\obj\Debug\netcoreapp2.2\Wizard.Publisher.csprojAssemblyReference.cache
+C:\dev\WizardQueue\Wizard.Publisher\obj\Debug\netcoreapp2.2\Wizard.Publisher.csproj.CoreCompileInputs.cache
+C:\dev\WizardQueue\Wizard.Publisher\obj\Debug\netcoreapp2.2\Wizard.Publisher.AssemblyInfoInputs.cache
+C:\dev\WizardQueue\Wizard.Publisher\obj\Debug\netcoreapp2.2\Wizard.Publisher.AssemblyInfo.cs
+C:\dev\WizardQueue\Wizard.Publisher\bin\Debug\netcoreapp2.2\Wizard.Publisher.pdb
+C:\dev\WizardQueue\Wizard.Publisher\obj\Debug\netcoreapp2.2\Wizard.Publisher.dll
+C:\dev\WizardQueue\Wizard.Publisher\obj\Debug\netcoreapp2.2\Wizard.Publisher.pdb
+C:\dev\WizardQueue\Wizard.Publisher\bin\Debug\netcoreapp2.2\NLog.config
+C:\dev\WizardQueue\Wizard.Publisher\bin\Debug\netcoreapp2.2\Wizard.Shared.dll
+C:\dev\WizardQueue\Wizard.Publisher\bin\Debug\netcoreapp2.2\Wizard.Shared.pdb
+C:\dev\WizardQueue\Wizard.Publisher\obj\Debug\netcoreapp2.2\Wizard.Publisher.csproj.CopyComplete
